@@ -11,7 +11,7 @@ public class Main
             suma+=n%10;
             n/=10;
         }while(n!=0);
-        return suma;k
+        return suma;
     }
 
     public static void main(String[] args)
